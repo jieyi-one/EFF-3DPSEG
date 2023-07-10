@@ -39,9 +39,3 @@ pip install \
     open3d==0.13.0 \
     protobuf==3.20.0
 ```
-
-
-
-
-
-# EFF-3DPSEG
